@@ -2,4 +2,6 @@ requests
 ipwhois
 argparse
 prettytable
+termcolor
+re
 
